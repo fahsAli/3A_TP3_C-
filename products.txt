@@ -1,0 +1,3 @@
+[ps4] [gaming console] [4] [450.000000]
+[ps5] [gaming console] [1] [700.000000]
+[mouse] [gaming mouse] [8] [30.000000]
